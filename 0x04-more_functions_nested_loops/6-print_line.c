@@ -2,9 +2,9 @@
 
 /**
 * print_line - prints underscores
-*
 * @n: limit
-* Return: 0
+*
+* Return: void
 */
 void print_line(int n)
 {
